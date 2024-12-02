@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my skills, projects, certifications, and professional journey.
 
 ## 🌐 Live Link
-Check out my portfolio: [Nithesh R.'s Portfolio](https://nithesh-r.github.io/portfolio/)
+Check out my portfolio: [Nithesh R's Portfolio](https://nithesh-r.github.io/portfolio/)
 
 ## 🛠️ Features
 - **About Me**: Learn more about my background, interests, and goals.
